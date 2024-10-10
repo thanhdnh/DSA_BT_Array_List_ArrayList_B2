@@ -1,7 +1,4 @@
 ﻿using System.Collections;
-using System.ComponentModel.DataAnnotations;
-using System.Reflection.Metadata;
-using System.Runtime.InteropServices;
 internal class Program
 {
     static Array Union(Array a, Array b)
